@@ -11,3 +11,4 @@ Este aplicativo permite explorar um dataset simulado de produção agrícola,
 realizar análises exploratórias e aplicar modelos preditivos.
 Utilize o menu à esquerda para navegar entre as páginas.
 """)
+st.write('Para mais informações, consulte a [documentação](https://github.com/birna/demo_streamlit).')
