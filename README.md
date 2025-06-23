@@ -13,7 +13,7 @@ Aplicação pronta em Python (ex: app.py)
 🚀 Passo a Passo
 Criar o arquivo requirements.txt
 Crie um arquivo chamado requirements.txt na raiz do seu repositório. Este arquivo deve listar todas as bibliotecas utilizadas pela sua aplicação. Exemplo:
-
+~~~~
 txt
 Copiar
 Editar
@@ -24,6 +24,8 @@ scikit-learn
 seaborn
 plotly
 matplotlib
+~~~~
+
 Criar um repositório no GitHub
 Crie um novo repositório no GitHub e faça o upload de todos os arquivos do seu projeto, incluindo o requirements.txt e o arquivo principal (ex: app.py).
 
